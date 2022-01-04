@@ -14,6 +14,9 @@ def main():
                    <h2 style="color:white;text-align:center;">Social media classifier</h2>
                    </div>"""
     st.markdown(html_temp,unsafe_allow_html=True)
+    st.write("This Classifier can identify images from following Social media platforms:\
+              **Instagram, Facebook & Twitter**. The images it can't recognise will be classified\
+              as **Others**")
     file = st.file_uploader('Upload image', type=['png','jpg','jpeg'])
     tempfile = NamedTemporaryFile(delete=False)
     if file is not None:
