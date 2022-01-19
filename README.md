@@ -6,7 +6,7 @@
   * [Motivation](#motivation)
   * [Approach](#approach)
   * [Data](#data)
-  * [Libraries](#libraries)
+  * [Packages/Libraries](#packageslibraries)
   * [Installation](#installation)
   * [To Do](#to-do)
   * [Contact](#contact)
