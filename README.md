@@ -3,7 +3,7 @@
 ## Table of Content
   * [Demo](#demo)
   * [Objective](#objective)
-  * [Inspiration](#inspiration)
+  * [Motivation](#motivation)
   * [Approach](#approach)
   * [Data](#data)
   * [Libraries](#libraries)
@@ -18,7 +18,7 @@ Link: [https://share.streamlit.io/rahul1758/social-media-classifier/app.py](http
 ## Objective
 The Objective of this Project was to develop a **Image classifier** for Restaurant Referral system that **identifes which Social-media platform the input image (scanned from the diner's smartphone) belongs to (i.e. Instagram, Facebook, Twitter, Others)**. This could help the Restaurant understand the demographics of Customers, the platform they get referred from the most and then strategise to increase their Social-media presence accordingly.
 
-## Inspiration
+## Motivation
 This project was a part of Internship program. It was developed for a Client looking to automate some tasks of Restaurant Referral system. The scenario plays out like this:
 > Suppose you run a restaurant and you have a discount offer for customers who come to dine at your restaurant based on their friend's/colleague's recommendation/referral. You reach the restaurant and show the profile page of your referrer where restaurant staff will scan the page. This is where the following app can be used. It processes the scanned image to identify the Social-media platform the customer got the recommendation from. This information can be stored for further use.
 
