@@ -20,7 +20,7 @@ The Objective of this Project was to develop a **Image classifier** for Restaura
 
 ## Inspiration
 This project was a part of Internship program. It was developed for a Client looking to automate some tasks of Restaurant Referral system. The scenario plays out like this:
-> Suppose you run a restaurant and you have a discount offer for customers who come to dine at your restaurant based on their friend's/colleague's recommendation/referral. You reach the restaurant and show the profile page of your referrer where restaurant staff will take a screenshot of the page. This is where the following app can be used. It processes the screenshot to identify the Social-media platform the customer got the recommendation from. This information can be stored for further use.
+> Suppose you run a restaurant and you have a discount offer for customers who come to dine at your restaurant based on their friend's/colleague's recommendation/referral. You reach the restaurant and show the profile page of your referrer where restaurant staff will scan the page. This is where the following app can be used. It processes the scanned image to identify the Social-media platform the customer got the recommendation from. This information can be stored for further use.
 
 ## Approach
 I'll using **Transfer-Learning** method to train a CNN model using **Inception_v3** pretrained weights and then add custom layers for **Multiclass classification** purpose.
